@@ -102,7 +102,7 @@ SLAT 공지사항, 소식 및 학교도서관과 관련된 유용한 정보를 �
 1. 저장용량>쿠키를 클릭 https://www.slat.or.kr 우클릭> 삭제 -> 새로고침
 ![img-readme-cookie-02](https://github.com/freebird920/slat-markdown/blob/main/img/img-readme-cookie-02.png?raw=true)
 <br/>
-<br/>
+
 
 [*[목차]*](#목차)
 
