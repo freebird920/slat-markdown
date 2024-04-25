@@ -102,12 +102,13 @@ SLAT 공지사항, 소식 및 학교도서관과 관련된 유용한 정보를 �
 1. 저장용량>쿠키를 클릭 https://www.slat.or.kr 우클릭> 삭제 -> 새로고침
 ![img-readme-cookie-02](https://github.com/freebird920/slat-markdown/blob/main/img/img-readme-cookie-02.png?raw=true)
 <br/>
-<br/>
-&nbsp; [*[목차]*](#목차)
+
+
+[*[목차]*](#목차)
 
 ### 쿠키 삭제 후에도 오류가 발생하는 경우
 
-[카카오톡 오픈 채팅으로 문의하기](https://open.kakao.com/o/sXKbtVXf?)를 클릭하여 학교명을 알려주시면 도와드리겠습니다. &nbsp;&nbsp; [*[목차]*](#목차)
+[카카오톡 오픈 채팅으로 문의하기](https://open.kakao.com/o/sXKbtVXf?)를 클릭하여 학교명을 알려주시면 도와드리겠습니다. &nbsp;&nbsp;[*[목차]*](#목차)
 
 ## 정보제공
 - [울산중앙중학교 **정다정 학생(2023)**](/slatpicture.svg)
