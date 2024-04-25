@@ -28,7 +28,7 @@
 
 ### 수상작 목록
 1. [권정생 문학상 수상작 목록](/archive/6629e9877c35516e66c92bbd)
-2. [뉴베리상 수상작 목록](/archive/archive/6629ecfd7c35516e66c92bbe)
+2. [뉴베리상 수상작 목록](/archive/6629ecfd7c35516e66c92bbe)
 
 ### SLAT 추천 도서 목록
 
