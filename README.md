@@ -103,8 +103,7 @@ SLAT 공지사항, 소식 및 학교도서관과 관련된 유용한 정보를 �
 ![img-readme-cookie-02](https://github.com/freebird920/slat-markdown/blob/main/img/img-readme-cookie-02.png?raw=true)
 <br/>
 <br/>
-
-    &nbsp; [*[목차]*](#목차)
+&nbsp; [*[목차]*](#목차)
 
 ### 쿠키 삭제 후에도 오류가 발생하는 경우
 
