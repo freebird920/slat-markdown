@@ -109,7 +109,7 @@ SLAT 공지사항, 소식 및 학교도서관과 관련된 유용한 정보를 �
 
 ## 정보제공
 
-- [울산중앙중학교 **정다정 학생(2023)**](/slatpicture.svg)
+- [울산중앙중학교 **정다정 학생(2023)**](https://raw.githubusercontent.com/freebird920/slat-markdown/2c9cd8e8bb85005ff41b568469ffa7d526563a31/img/slatpicture.svg)
 - [국립중앙도서관 CIP API](https://www.nl.go.kr/NL/contents/N31101030400.do)
 - [알라딘 인터넷 서점 도서 검색 API](https://www.aladin.co.kr/) &nbsp;&nbsp; [_[목차]_](#목차)
 
