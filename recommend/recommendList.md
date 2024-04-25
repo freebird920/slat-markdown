@@ -27,3 +27,6 @@
 ### SLAT 추천 도서 목록
 
 1. [사서교사 집필 도서 목록](/archive/66208193de4be91e53dd6af1).&nbsp;[*[목차]*](#목차)
+
+
+fetch from github [link](https://github.com/freebird920/slat-markdown/edit/main/recommend/recommendList.md)
