@@ -95,14 +95,14 @@ SLAT 공지사항, 소식 및 학교도서관과 관련된 유용한 정보를 �
 로그인 오류, 설정 오류 등은 대부분 쿠키 삭제를 통해서 해결할 수 있습니다. 브라우저 쿠키 삭제 방법은 다음과 같습니다.
 
 1. slat 접속, slat 화면에서 ctrl + shift + i 입력 애플리케이션 선택(요소, 콘솔, 등과 함께 나타나지 않는다면 >> 버튼을 눌려서 "애플리케이션" 선택)
+![img-readme-cookie-01](https://raw.githubusercontent.com/freebird920/slat-markdown/main/img/img-readme-cookie-01.png)
+<br/>
+<br/>
 
-![img-readme-cookie-01](/img-readme-cookie-01.png)](https://raw.githubusercontent.com/freebird920/slat-markdown/main/img/img-readme-cookie-01.png)
-
+1. 저장용량>쿠키를 클릭 https://www.slat.or.kr 우클릭> 삭제 -> 새로고침
+![img-readme-cookie-02](https://github.com/freebird920/slat-markdown/blob/main/img/img-readme-cookie-02.png?raw=true)
 <br/>
 <br/>
-4. 저장용량>쿠키를 클릭 https://www.slat.or.kr 우클릭> 삭제 -> 새로고침
-<br/>
-    ![img-readme-cookie-02](/img-readme-cookie-02.png)
 
     &nbsp; [*[목차]*](#목차)
 
@@ -133,6 +133,3 @@ SLAT 공지사항, 소식 및 학교도서관과 관련된 유용한 정보를 �
     - 2.2.1. 소장 여부 조회 기능 추가
 - 2.0
 - 1.0 데모 애플리케이션 완성. &nbsp;&nbsp; [*[목차]*](#목차) &nbsp;&nbsp; [*[처음으로]*](#top)
-
-
-test
