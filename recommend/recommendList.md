@@ -30,6 +30,8 @@
 1. [권정생 문학상 수상작 목록](/archive/6629e9877c35516e66c92bbd)
 1. [뉴베리상 수상작 목록](/archive/6629ecfd7c35516e66c92bbe)
 1. [칼데콧상 수상작 목록](/archive/6629f2427c35516e66c92bbf)
+- [국립어린이청소년도서관 국내외 문학상](https://www.nlcy.go.kr/NLCY/contents/C10501000000.do)
+
 ### SLAT 추천 도서 목록
 
 1. [사서교사 집필 도서 목록](/archive/66208193de4be91e53dd6af1).&nbsp;[*[목차]*](#목차)
