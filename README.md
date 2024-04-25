@@ -107,14 +107,11 @@ SLAT 공지사항, 소식 및 학교도서관과 관련된 유용한 정보를 �
 1. slat 접속, slat 화면에서 ctrl + shift + i 입력 애플리케이션 선택(요소, 콘솔, 등과 함께 나타나지 않는다면 >> 버튼을 눌려서 "애플리케이션" 선택)
    ![img-readme-cookie-01](https://raw.githubusercontent.com/freebird920/slat-markdown/main/img/img-readme-cookie-01.png)
 <br/>
-<br/>
 
 1. 저장용량>쿠키를 클릭 https://www.slat.or.kr 우클릭> 삭제 -> 새로고침
    ![img-readme-cookie-02](https://github.com/freebird920/slat-markdown/blob/main/img/img-readme-cookie-02.png?raw=true)
 <br/>
-<br/>
 
-[_[목차]_](#목차)
 
 ### 쿠키 삭제 후에도 오류가 발생하는 경우
 
