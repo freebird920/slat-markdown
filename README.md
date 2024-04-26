@@ -115,6 +115,7 @@ SLAT 공지사항, 소식 및 학교도서관과 관련된 유용한 정보를 �
 ## SLAT 배포 채널
 
 - 정식 채널: https://www.slat.or.kr
+- 개발중: https://slat-cloudflare.pages.dev/ (vercel -> cloudflare로 이전 중)
 - ~~베타 채널: https://slat2.vercel.app~~ (2024. 4. 26. (금) 부로 배포 종료) &nbsp;&nbsp; [_[목차]_](#목차)
 
 ## SLAT Version History
