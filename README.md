@@ -19,7 +19,7 @@
 
 ### 검색
 
-SLAT에서는 도서를 <label id="searchInputLabel2" for="searchInput" class="font-blod text-indigo-500">검색</label> 할 수 있습니다. ALADIN 도서 검색 API와 국립중앙도서관 CIP API를 활용하여 국내에서 출판된 도서 대부분을 검색할 수 있습니다. [_[목차]_](#목차)
+SLAT에서는 도서를 검색 할 수 있습니다. ALADIN 도서 검색 API와 국립중앙도서관 CIP API를 활용하여 국내에서 출판된 도서 대부분을 검색할 수 있습니다. [_[목차]_](#목차)
 
 ### 추천도서
 
